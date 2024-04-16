@@ -46,6 +46,9 @@ This API is designed to be consumed by a mobile app built with Flutter. The Flut
 
 Flutter and Ruby on Rails with MySQL
 
+## Demo
+[Drive](https://drive.google.com/file/d/1VqP4LGd9kisSBqyU5LbvWhBgF0pAzEXn/view?usp=sharing)
+
 ## Screenshots:
 ![PlacesList](https://github.com/vishnu32510/chi-scartlet-hacks/assets/76788079/7c425a36-6492-452e-8971-b26c10f26b8c)
 ![PlaceDetails](https://github.com/vishnu32510/chi-scartlet-hacks/assets/76788079/a00b1388-3b5b-42fc-9d1b-c9eb6279ac4d)
