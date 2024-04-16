@@ -39,5 +39,6 @@ Chi Planner is an innovative application designed to simplify event planning for
 
 ## Authors
 
-- [@vishnu32510](https://github.com/vishnu32510)
+•⁠  ⁠*Noviya* - Ruby Developer - [Noviya](https://github.com/noviya23)
+•⁠  ⁠*Vishnu Priyan* - Mobile Application Developer - [Vishnu Priyan](https://github.com/vishnu32510)
 
