@@ -1,5 +1,5 @@
 
-# ChiPlanner
+# ChiPlanner 🗒️
 
 Chi Planner is an innovative application designed to simplify event planning for users around Chicago. The app populates detailed information about various places of interest in the Chicago area, empowering users to plan their events effectively. Users can set a time interval for their visit, allowing them to organize their schedules efficiently.
 
