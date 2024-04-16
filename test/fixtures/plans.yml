@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  planner: one
+  plan_id: 1
+  start_time: 2024-04-14 20:20:14
+  end_time: 2024-04-14 20:20:14
+
+two:
+  planner: two
+  plan_id: 1
+  start_time: 2024-04-14 20:20:14
+  end_time: 2024-04-14 20:20:14
