@@ -54,6 +54,8 @@ Flutter and Ruby on Rails with MySQL
 ![PlaceDetails](https://github.com/vishnu32510/chi-scartlet-hacks/assets/76788079/a00b1388-3b5b-42fc-9d1b-c9eb6279ac4d)
 ![MyPlans](https://github.com/vishnu32510/chi-scartlet-hacks/assets/76788079/71ab5597-62c9-4bdc-b0cd-1da2da20e307)
 
+## Frontend repo:
+[Repo](https://github.com/vishnu32510/chi-scartlet-hacks)
 
 ## Authors
 
